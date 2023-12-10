@@ -8,3 +8,5 @@ The code starts by defining an array of integers called "array" and asks the use
 The searchLinear method goes through the array and compares each element with the target number. If the element is found, the position is stored in the position variable. After traversing the entire array, the function returns the position of the element or -1 if the element was not found.
 
 The result of the search is then displayed on the console, indicating whether the element was found and, if so, in which position.
+
+The program is in the "src" folder, with the name "Main.java".
