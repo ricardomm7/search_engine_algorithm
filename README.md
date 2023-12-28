@@ -1,4 +1,4 @@
-# SearchEngineAlgorithm
+# Search Engine Algorithm
 A simple algorithm in Java to search for numbers in an Array.
 
 This is a simple Java program that performs a linear search in an array of integers. Linear search is a basic search method, where each element of the array is checked sequentially until the desired element is found or the entire array is traversed.
